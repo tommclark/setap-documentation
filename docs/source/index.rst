@@ -11,6 +11,8 @@ Welcome to Lumache's documentation!
 
 test test test test
 
+hello
+
 .. note::
 
    This project is under active development.
@@ -19,6 +21,8 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 3
+   :caption: Contents:
 
    usage
    api
