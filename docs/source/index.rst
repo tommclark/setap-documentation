@@ -21,7 +21,7 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 7
    :caption: Contents:
 
    
@@ -29,3 +29,6 @@ Contents
    scope
    userreqs
    implementation
+   howtoinstall
+   components
+   other
