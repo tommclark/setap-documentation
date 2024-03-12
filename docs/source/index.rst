@@ -11,7 +11,7 @@ Welcome to Lumache's documentation!
 
 test test test test
 
-hello
+
 
 .. note::
 
@@ -21,7 +21,7 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 7
+   :maxdepth: 8
    :caption: Contents:
 
    
