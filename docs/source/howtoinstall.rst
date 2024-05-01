@@ -23,7 +23,7 @@ Alternatively, download the zip file and extract it to your desired directory.
 
     flutter run
 
-    Then select the option to run on Chrome. Alternatively, use the following command to run on Chrome by default:
+Then select the option to run on Chrome. Alternatively, use the following command to run on Chrome by default:
 
 .. code-block:: console
 
@@ -31,7 +31,7 @@ Alternatively, download the zip file and extract it to your desired directory.
 
 4. The project should now be running on your browser.
 
-If the project is not running correctly, you can try the following commands:
+If the project is not running correctly, you can try the following commands or enable developer mode on your machine:
 
 .. code-block:: console
 
@@ -39,4 +39,3 @@ If the project is not running correctly, you can try the following commands:
     flutter pub get
     flutter upgrade
 
-Enable developer mode on your machine.
