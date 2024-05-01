@@ -33,14 +33,14 @@ Navigation Bar
 
 The navigation bar has the following options in host mode:
 * `Switch User Mode <https://setap-documentation.readthedocs.io/en/latest/components.html#user-mode-page>`_
-* `Create Events <https://setap-documentation.readthedocs.io/en/latest/components.html#create-events>`_
-* `Search Events <https://setap-documentation.readthedocs.io/en/latest/components.html#search-events>`_
+* `Create Events <https://setap-documentation.readthedocs.io/en/latest/components.html#id3>`_
+* `Search Events <https://setap-documentation.readthedocs.io/en/latest/components.html#id4>`_
 * Logout
 
 The navigation bar has the following options in attendee mode:
 * `Switch User Mode <https://setap-documentation.readthedocs.io/en/latest/components.html#user-mode-page>`_
-* `Search Events <https://setap-documentation.readthedocs.io/en/latest/components.html#search-events>`_
-* `Book Events <https://setap-documentation.readthedocs.io/en/latest/components.html#book-events>`_
+* `Search Events <https://setap-documentation.readthedocs.io/en/latest/components.html#id4>`_
+* `Book Events <https://setap-documentation.readthedocs.io/en/latest/components.html#id5>`_
 * Logout
 
 6. Profile Page
