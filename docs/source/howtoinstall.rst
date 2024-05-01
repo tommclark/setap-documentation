@@ -1,7 +1,7 @@
 How to Install/Run project
 ==================
 
-Before running the project, ensure that you have Flutter and Dart installed. If not, you can follow the instructions [here](https://flutter.dev/docs/get-started/install).
+Before running the project, ensure that you have Flutter and Dart installed. If not, you can follow the instructions `here <https://flutter.dev/docs/get-started/install>`_.
 
 1. Clone the repository into your desired directory using the following command:
 
