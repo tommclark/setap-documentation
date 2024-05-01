@@ -21,11 +21,11 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 8
+   :maxdepth: 7
    :caption: Contents:
 
    
-   api
+   
    scope
    userreqs
    implementation
