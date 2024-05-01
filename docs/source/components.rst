@@ -1,7 +1,7 @@
 Main Components
 ==================
 
-These are the pages that make up th event app.
+These are the pages that make up the event app.
 
 1. Start Page
 ----------------
