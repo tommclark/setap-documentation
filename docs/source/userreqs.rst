@@ -3,7 +3,7 @@ User Requirements
 
 After conducting surverys and collecting data from potential users, we identified these requiurements as the most important for the event app:
 
-* Ensuring a transparent and easily understandable process for customers to request refunds, specifying clear conditions under which refunds are applicable, and establishing a timely and efficient refund processing system to enhance customer satisfaction.
+* Ensuring a transparent and easily understandable process for customers to request refunds, specifying clear conditions under which refunds are applicable, and establishing a timely and efficient refund processing system to enhance customer satisfaction. 
 
 * A location-based feature that displays a comprehensive list of local events, and provides users with the ability to apply intuitive filters, such as date, category, or venue, to refine and personalise their event search for a more tailored and relevant experience.
 
