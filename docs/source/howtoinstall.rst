@@ -7,3 +7,10 @@ Before running the project, ensure that you have Flutter and Dart installed. If 
 2. In the terminal `flutter pub get` to install the dependencies
 3. Run the project using `flutter run`, then select the option to run on Chome or `flutter run -d chrome` to run on Chrome by default
 4. The project should now be running on your browser
+
+
+If the project is not running correctly, you can try the following:
+- `flutter clean`
+- `flutter pub get`
+- `flutter upgrade`
+- Enable developer mode on your machine
