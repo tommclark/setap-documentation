@@ -49,17 +49,32 @@ The navigation bar has the following options in attendee mode:
 On the profile page, the user can view the events they have booked in the past, and a button which leads to a settings page is also available.
 
 
-7. Create Events
+7. Create Events Page
 ----------------
 
-The create events page allows the host to create an event. The host can enter the event name, description, date, time, location, and the number of tickets available. The host can also upload an image for the event. The host can click the create event button to create the event.
+The create events page allows the host to create an event. The host can enter their User ID, event name, date, time, location, description and the ticket price. The host can click the create event button to create the event. When adding the date, time and location, dialogs will appear to help the user input the correct information.
 
-8. Search Events
+8. Search Events Page
 ----------------
 
-The search events page allows the user to search for events. The user can enter a keyword in the search bar and click the search button to search for events. The user can click on an event to view more details about the event.
+The search events page allows the user to search for events. The user can enter a query in the search bar and the events matching the query in the search bar will dynamically appear on the screen. The user can search for events by name and by location.
 
-9. Book Events
+9. Book Events Page
 ----------------
 
-The book events page allows the user to book an event. The user can click on an event to view more details about the event. The user can click the book event button to book the event.
+The book events page allows the user to book an event. The user can click the book event button to book the event after they have inputted the number of tickets they would like to purchase.
+
+10. Your Events Page
+----------------
+
+The your events page allows the user to view the events they have booked in the past. They display in a list and display the total price if the user has booked multiple tickets.
+
+11. Settings Page
+----------------
+
+The settings page allows the user to change their name, email and password. The user can enter their new name, email and password in the text fields and click the update button to update their information.
+
+12. Payment Page
+----------------
+
+The payment page allows the user to pay for the tickets they have booked. The user can enter their card number, expiry date, CVV and name on card in the text fields and click the pay button to pay for the tickets. When the `Pay Now` button is clicked, a dialogue appears to confirm the payment, and then the user is redirected to the `Your Events page<>_.
