@@ -77,4 +77,4 @@ The settings page allows the user to change their name, email and password. The 
 12. Payment Page
 ----------------
 
-The payment page allows the user to pay for the tickets they have booked. The user can enter their card number, expiry date, CVV and name on card in the text fields and click the pay button to pay for the tickets. When the `Pay Now` button is clicked, a dialogue appears to confirm the payment, and then the user is redirected to the `Your Events page<https://setap-documentation.readthedocs.io/en/latest/components.html#your-events-page>`_.
+The payment page allows the user to pay for the tickets they have booked. The user can enter their card number, expiry date, CVV and name on card in the text fields and click the pay button to pay for the tickets. When the `Pay Now` button is clicked, a dialogue appears to confirm the payment, and then the user is redirected to the `Your Events page <https://setap-documentation.readthedocs.io/en/latest/components.html#your-events-page>`_.
