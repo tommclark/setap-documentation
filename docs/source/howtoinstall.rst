@@ -3,14 +3,40 @@ How to Install/Run project
 
 Before running the project, ensure that you have Flutter and Dart installed. If not, you can follow the instructions [here](https://flutter.dev/docs/get-started/install).
 
-1. Clone the repository into your desired directory
-2. In the terminal `flutter pub get` to install the dependencies
-3. Run the project using `flutter run`, then select the option to run on Chome or `flutter run -d chrome` to run on Chrome by default
-4. The project should now be running on your browser
+1. Clone the repository into your desired directory using the following command:
 
+.. code-block:: console
 
-If the project is not running correctly, you can try the following:
-- `flutter clean`
-- `flutter pub get`
-- `flutter upgrade`
-- Enable developer mode on your machine
+    git clone https://github.com/SETAP-Team-D/ProjectFile.git
+
+Alternatively, download the zip file and extract it to your desired directory.
+
+2. In the terminal, use the following command to install the dependencies:
+
+.. code-block:: console
+
+    flutter pub get
+
+3. Run the project using the following command:
+
+.. code-block:: console
+
+    flutter run
+
+    Then select the option to run on Chrome. Alternatively, use the following command to run on Chrome by default:
+
+.. code-block:: console
+
+    flutter run -d chrome
+
+4. The project should now be running on your browser.
+
+If the project is not running correctly, you can try the following commands:
+
+.. code-block:: console
+
+    flutter clean
+    flutter pub get
+    flutter upgrade
+
+Enable developer mode on your machine.
