@@ -33,26 +33,26 @@ Navigation Bar
 
 The navigation bar has the following options in host mode:
 * `Switch User Mode <https://setap-documentation.readthedocs.io/en/latest/components.html#user-mode-page>`_
-* `Create Events <https://setap-documentation.readthedocs.io/en/latest/components.html#id3>`_
-* `Search Events <https://setap-documentation.readthedocs.io/en/latest/components.html#id4>`_
+* `Create Events <https://setap-documentation.readthedocs.io/en/latest/components.html#create-events-page>`_
+* `Search Events <https://setap-documentation.readthedocs.io/en/latest/components.html#search-events-page>`_
 * Logout
 
 The navigation bar has the following options in attendee mode:
 * `Switch User Mode <https://setap-documentation.readthedocs.io/en/latest/components.html#user-mode-page>`_
-* `Search Events <https://setap-documentation.readthedocs.io/en/latest/components.html#id4>`_
-* `Book Events <https://setap-documentation.readthedocs.io/en/latest/components.html#id5>`_
+* `Search Events <https://setap-documentation.readthedocs.io/en/latest/components.html#search-events-page>`_
+* `Book Events <https://setap-documentation.readthedocs.io/en/latest/components.html#book-events-page>`_
 * Logout
 
 6. Profile Page
 ----------------
 
-On the profile page, the user can view the events they have booked in the past, and a button which leads to a settings page is also available.
+On the profile page, the user can view the events they have booked in the past, and a button which leads to a `settings page <https://setap-documentation.readthedocs.io/en/latest/components.html#settings-page>`_ is also available.
 
 
 7. Create Events Page
 ----------------
 
-The create events page allows the host to create an event. The host can enter their User ID, event name, date, time, location, description and the ticket price. The host can click the create event button to create the event. When adding the date, time and location, dialogs will appear to help the user input the correct information.
+The create events page allows the host to create an event. The host can enter their User ID, event name, date, time, location, description and the ticket price. The host can click the `create event` button to create the event. When adding the date, time and location, dialogs will appear to help the user input the correct information.
 
 8. Search Events Page
 ----------------
@@ -77,4 +77,4 @@ The settings page allows the user to change their name, email and password. The 
 12. Payment Page
 ----------------
 
-The payment page allows the user to pay for the tickets they have booked. The user can enter their card number, expiry date, CVV and name on card in the text fields and click the pay button to pay for the tickets. When the `Pay Now` button is clicked, a dialogue appears to confirm the payment, and then the user is redirected to the `Your Events page<>_.
+The payment page allows the user to pay for the tickets they have booked. The user can enter their card number, expiry date, CVV and name on card in the text fields and click the pay button to pay for the tickets. When the `Pay Now` button is clicked, a dialogue appears to confirm the payment, and then the user is redirected to the `Your Events page<https://setap-documentation.readthedocs.io/en/latest/components.html#your-events-page>`_.
