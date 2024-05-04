@@ -11,4 +11,9 @@ A key aim of the application is to provide a platform for event organisers to pr
 Features
 ^^^^^^^
 
-In the app, users can search for events, book events, view and manage their bookings, create accounts and create events. There is scope for further development in the future, such as a review or rating system for events. The full list of components is available on the `Main Components <https://setap-documentation.readthedocs.io/en/latest/components.html>`_ page.
+In the app, users can search for events, book events, view and manage their bookings, create accounts and create events. There is scope for further development in the future, such as a review or rating system for events. The full list of components and features is available on the `Main Components <https://setap-documentation.readthedocs.io/en/latest/components.html>`_ page.
+
+Security
+^^^^^^^^
+
+The application will have secure authentication, with user accounts and profiles. By using Firebase, we can ensure that user data is secure and that the application is protected from security threats. There are strict requirement for password creation, and accounts can be managed by the system admin on an external Firebase console.
