@@ -11,4 +11,4 @@ A key aim of the application is to provide a platform for event organisers to pr
 Features
 ^^^^^^^
 
-In the app, users can search for events, book events, view and manage their bookings, create accounts and create events. There is scope for further development in the future, such as a review or rating system for events.
+In the app, users can search for events, book events, view and manage their bookings, create accounts and create events. There is scope for further development in the future, such as a review or rating system for events. The full list of components is available on the `Main Components <https://setap-documentation.readthedocs.io/en/latest/components.html>`_ page.
