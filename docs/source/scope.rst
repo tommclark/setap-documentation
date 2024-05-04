@@ -1,27 +1,14 @@
 Scope
 ==================
 
-Introduction
-------------
+Our project aims to develop a responsive and user friendly event management web application, with a focus on the user experience. The application will allow users to create, manage and book events. The application will also allow users to search for events based on their preferences and location. There is secure authentication, with account management and user profiles.
 
-This is the introduction section. Here you can provide an overview of the document.
+Target Audience
+^^^^^^^^^^^
 
-Section 1
----------
+A key aim of the application is to provide a platform for event organisers to promote their events and for users to discover events that they are interested in. By creating a user friendly and responsive application, the app aims to attract to a wide range of people who are interested in attending or hosting events. It is for all ages, as any event can be created and booked.
 
-This is the first section. You can provide detailed information here.
+Features
+^^^^^^^
 
-Subsection 1.1
-~~~~~~~~~~~~~~~
-
-This is a subsection under Section 1.
-
-Section 2
----------
-
-This is the second section.
-
-Conclusion
-----------
-
-This is the conclusion section. Here you can summarize the document or provide final thoughts.
+In the app, users can search for events, book events, view and manage their bookings, create accounts and create events. There is scope for further development in the future, such as a review or rating system for events.

@@ -46,13 +46,13 @@ The navigation bar has the following options in attendee mode:
 6. Profile Page
 ----------------
 
-On the profile page, the user can view the events they have booked in the past, and a button which leads to a `settings page <https://setap-documentation.readthedocs.io/en/latest/components.html#id3>`_ is also available.
+On the profile page, the user can view the events they have booked in the past, and a button which leads to a `Settings Page <https://setap-documentation.readthedocs.io/en/latest/components.html#id3>`_ is also available.
 
 
 7. Create Events Page
 ----------------
 
-The create events page allows the host to create an event. The host can enter their User ID, event name, date, time, location, description and the ticket price. The host can click the `create event` button to create the event. When adding the date, time and location, dialogs will appear to help the user input the correct information.
+The create events page allows the host to create an event. The host can enter their User ID, event name, date, time, location, description and the ticket price. The host can click the `Create Event` button to create the event. When adding the date, time and location, dialogs will appear to help the user input the correct information.
 
 8. Search Events Page
 ----------------
