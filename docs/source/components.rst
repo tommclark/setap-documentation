@@ -46,7 +46,7 @@ The navigation bar has the following options in attendee mode:
 6. Profile Page
 ----------------
 
-On the profile page, the user can view the events they have booked in the past, and a button which leads to a `settings page <https://setap-documentation.readthedocs.io/en/latest/components.html#settings-page>`_ is also available.
+On the profile page, the user can view the events they have booked in the past, and a button which leads to a `settings page <https://setap-documentation.readthedocs.io/en/latest/components.html#id3>`_ is also available.
 
 
 7. Create Events Page
