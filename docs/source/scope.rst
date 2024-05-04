@@ -16,4 +16,4 @@ In the app, users can search for events, book events, view and manage their book
 Security
 ^^^^^^^^
 
-The application will have secure authentication, with user accounts and profiles. By using Firebase, we can ensure that user data is secure and that the application is protected from security threats. There are strict requirement for password creation, and accounts can be managed by the system admin on an external Firebase console.
+The application will have secure authentication, with user accounts and profiles. By using Firebase, we can ensure that user data is secure and that the application is protected from security threats. There are strict requirement for password creation, and accounts can be managed by the system admin on an external Firebase console. This ensures that no user data can be stole or compromised, so that the app abides be necessary data protection laws.

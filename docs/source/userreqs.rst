@@ -20,3 +20,5 @@ After conducting surverys and collecting data from potential users, we identifie
 * Intuitive and user-friendly interface. This includes employing a clean and organised design with well-defined navigation menus, icons, and labelling. Consistent placement of common features and actions contributes to a seamless user experience. Implementing responsive design principles ensures accessibility across various devices. The goal is to minimise complexity, streamline interactions, and provide users with a straightforward and enjoyable interface that requires minimal effort to understand and navigate.
 
 * Optimising performance to ensure swift and responsive interactions with the system. This involves efficient coding practices, minimising unnecessary processes, and optimising data retrieval and rendering. Prioritising a lightweight design and optimising images and multimedia content contributes to faster app loading times.
+
+
