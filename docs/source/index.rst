@@ -9,8 +9,7 @@ Welcome to Team 1D's Event App Documentation!
 .. Check out the :doc:`usage` section for further information, including
 .. how to :ref:`installation` the project.
 
-Contents
---------
+
 
 .. toctree::
    :maxdepth: 7
