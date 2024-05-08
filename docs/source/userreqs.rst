@@ -11,8 +11,6 @@ After conducting surverys and collecting data from potential users, we identifie
 
 * A system that assigns seats in a sequential order corresponding to the purchase time, ensuring fairness and transparency in seat distribution. This includes designing a mechanism that efficiently manages and updates seat availability in real-time, providing users with a clear understanding of their assigned seats based on their ticket purchase order within the event venue.
 
-* Establishing a notification system that keeps users informed about their events. This involves sending timely updates, including event reminders, changes in schedule, and any relevant information, through various communication channels such as email, push notifications, or SMS.
-
 * Robust measures to ensure that no credit card details or other sensitive information is collected during the sign-up process. This includes designing a secure authentication system that only requests essential information for account creation, excluding sensitive financial data.
 
 * Provide comprehensive and organised information about events. This includes implementing a structured layout with key details such as event name, date, time, venue, and description prominently displayed. Visual elements such as images or maps can be incorporated to enhance clarity.

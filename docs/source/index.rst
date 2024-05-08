@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to Team 1D's Event App Documentation!
 ===================================
 
 .. **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -8,14 +8,6 @@ Welcome to Lumache's documentation!
 
 .. Check out the :doc:`usage` section for further information, including
 .. how to :ref:`installation` the project.
-
-test test test test
-
-
-
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
